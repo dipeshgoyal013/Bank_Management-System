@@ -6,13 +6,13 @@ In this project we have created a Virtual Bank using Python and MySQL. Data ente
 This project is designed for better user experience to keep the record of their customers. Only authorized Users can have the accessibility to the program. User after Logging in have the support to display all records. If someone is not having Login Id, password he/she could make a new id. Further it can also check overall record of a local customer or full detail of a single a/c as per transactions, create a new record for new customer, Update an old customer record. Python is used as Front End and MySQL is used as Back End.
 
 *Requirement
-
+____________________________________________________________________________________________________________________________________________________________________
 Python Latest Version
 Visual Code
 Mysql
 
 *Module Used In python Code
-
+____________________________________________________________________________________________________________________________________________________________________
 datetime
 mysql.connector
 *About Mysql Code
